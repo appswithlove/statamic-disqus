@@ -1,0 +1,6 @@
+name: Disqus
+version: "1.0"
+description: Integrate disqus with statamic
+url: https://github.com/subpixel-ch/statamic-disqus
+developer: Rémy Böhler
+developer_url: https://subpixel.ch
