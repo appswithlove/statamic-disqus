@@ -2,6 +2,11 @@
 
 ![Statamic 2](https://img.shields.io/badge/statamic-2.x-blue.svg?style=flat-square)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![StyleCI](https://styleci.io/repos/77051499/shield?branch=master)](https://styleci.io/repos/77051499)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/subpixel-ch/statamic-disqus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/subpixel-ch/statamic-disqus/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/subpixel-ch/statamic-disqus/badges/build.png?b=master)](https://scrutinizer-ci.com/g/subpixel-ch/statamic-disqus/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/89970744-730a-4dfd-a803-2b0767bc2bc2/mini.png)](https://insight.sensiolabs.com/projects/89970744-730a-4dfd-a803-2b0767bc2bc2)
+
 
 ## Installation
 1. Copy the `Disqus` directory to your `site/addons` directory
